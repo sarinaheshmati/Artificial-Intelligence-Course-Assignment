@@ -1,6 +1,6 @@
 # Artificial Intelligence Course Assignments
 
-This repository contains a collection of assignments completed for an Artificial Intelligence course, taught by **[Prof. Mehdi Ghatee]**. Each project applies key AI techniques, providing practical examples and implementations in Python.
+This repository contains a collection of assignments completed for an Artificial Intelligence course, taught by **Prof. Mehdi Ghatee**. Each project applies key AI techniques, providing practical examples and implementations in Python.
 
 ## Contents
 
