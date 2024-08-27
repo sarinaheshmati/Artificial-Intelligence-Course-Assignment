@@ -1,57 +1,46 @@
-# Artificial-Intelligence-Course-Assignment
-A collection of course assignments and projects for exploring key concepts in Artificial Intelligence.
+# Artificial Intelligence Course Assignments
+
+This repository contains a collection of assignments completed for an Artificial Intelligence course, taught by **[Prof. Mehdi Ghatee]**. Each project applies key AI techniques, providing practical examples and implementations in Python.
 
 ## Contents
 
-- **A-Star**:  
-  *Report: Analysis of the paper "A Survey of A-Star Algorithm Family for Motion Planning of Autonomous Vehicles" (IEEE Access, 2023).*
-[
-- **Clustering-with-Genetic-Algorithm**:  
-  *Code for clustering using genetic algorithms.*
-  [more details](../A-Star)
+The repository includes the following projects:
 
-- **Midterm**:  
-  *AI midterm exam solutions, including football player clustering and Farsi digit classification using Minimum Distance Classifier (MDC).*
-    [more details](../Midterm)
-  
-- **Swarm-Intelligence-for-Self-organizing-Clustering**:  
-  *Report: Analysis of the paper "Swarm Intelligence for Self-Organized Clustering" (Artificial Intelligence, 2020).*
-  [more details](../Swarm-Intelligence-for-self-organizing-Clustering)
-  
-- **credit-card-fraud**:  
-  *Code for detecting credit card fraud using machine learning and anomaly detecting.*
-  
-- **kakuro**:  
-  *Code for solving the Kakuro puzzle using CSP.*
-  
-- **pacman**:  
-  *Minimax implementation for playing Pacman.*
+### 1. **A-Star Algorithm for Autonomous Vehicle Motion Planning**
+   - **Description**: This project includes a detailed report analyzing various A-Star algorithm variants used in autonomous vehicle navigation. It evaluates their efficiency and applicability in real-world scenarios.
 
+[More Details](./A-Star/README.md)
 
+### 2. **Clustering with Genetic Algorithm**
+   - **Description**: This project implements clustering using a genetic algorithm, demonstrating how evolutionary techniques can optimize clustering tasks for complex datasets.
 
-Here’s a comprehensive README for your repository:
+[More Details](./Clustering-with-Genetic-Algorithm/README.md)
+
+### 3. **Midterm: Football Player Clustering & Farsi Digit Classification**
+   - **Description**: This midterm project involves clustering football players based on their attributes and classifying Farsi digits using the Minimum Distance Classifier (MDC), showcasing practical applications of AI techniques.
+
+[More Details](./Midterm/README.md)
+
+### 4. **Swarm Intelligence for Self-Organizing Clustering**
+   - **Description**: A report on the Databionic Swarm (DBS) algorithm, which leverages swarm intelligence for self-organizing clustering, outperforming traditional methods like K-means in certain scenarios.
+
+[More Details](./Swarm-Intelligence-for-Self-organizing-Clustering/README.md)
+
+### 5. **Credit Card Fraud Detection**
+   - **Description**: This project implements machine learning models to detect fraudulent credit card transactions, focusing on optimizing accuracy while minimizing false positives.
+
+[More Details](./credit-card-fraud/README.md)
+
+### 6. **Kakuro Puzzle Solver**
+   - **Description**: The Kakuro puzzle is solved using AI search techniques, demonstrating the application of constraint satisfaction problems in AI.
+
+[More Details](./kakuro/README.md)
+
+### 7. **Pacman AI**
+   - **Description**: This project develops AI strategies to play Pacman, including pathfinding and decision-making algorithms that control the game’s character to maximize score and survival.
+
+[More Details](./pacman/README.md)
 
 ---
 
-# Artificial Intelligence Course Assignments
-
-Welcome to the Artificial Intelligence Course Assignments repository! This repository houses a collection of reports and code-based projects completed as part of an AI course, encompassing a diverse range of topics and methodologies in artificial intelligence.
-
-## Contents
-
-### 1. A-Star
-**Report: A Survey of A-Star Algorithm Family for Motion Planning of Autonomous Vehicles**  
-This report analyzes the paper "A Survey of A-Star Algorithm Family for Motion Planning of Autonomous Vehicles" (IEEE Access, 2023). It reviews various A-Star (A*) algorithm variants and their applications in autonomous vehicle navigation.
-
-- **Summary**: Overview of key points and findings from the paper.
-- **Analysis**: Critical evaluation of the discussed algorithms, including strengths, limitations, and potential improvements.
-- **Conclusion**: Insights on the application and future development of these algorithms for real-world scenarios.
-- **Reference**: [Original Paper](https://ieeexplore.ieee.org/document/10063063)
-
-### 2. Clustering-with-Genetic-Algorithm
-**Code Implementation**  
-This assignment involves the implementation of clustering algorithms using genetic algorithms. The code explores evolutionary approaches to optimize clustering in various datasets.
-
-### 3. Midterm
-**AI Midterm Practical Exam: Clustering Football Players & Farsi Digits Classification**  
-This repository contains the solutions to the AI midterm practical exam
+This repository serves as a comprehensive resource for exploring key AI concepts through practical coding assignments. Each project highlights a different aspect of artificial intelligence, contributing to a deeper understanding of AI methodologies and their applications.
